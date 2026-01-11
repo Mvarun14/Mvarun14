@@ -33,17 +33,14 @@
 
 
 ## 🔥 GitHub Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mvarun14&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Mvarun14&theme=dark&hide_border=true)
 
 ## 📊 GitHub Profile Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=Mvarun14&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mvarun14&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
 
 ## 💻 Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvarun14&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+
 
 
 
