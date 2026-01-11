@@ -7,9 +7,23 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 
+<p align="center">
+  <a href="https://myportfolio-seven-ivory-33.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 
-## 📫 Connect With Me
+
+<p align="center">
+  <a href="tel:+919666858369">
+    <img src="https://img.shields.io/badge/India_Phone-%2B919666858369-138808?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="tel:+17167172193">
+    <img src="https://img.shields.io/badge/US_Phone-%2B17167172193-0A66C2?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <a href="mailto:phanivarunm@gmail.com">
@@ -17,18 +31,10 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="tel:+919666858369">
-    <img src="https://img.shields.io/badge/India_Phone-%2B919666858369-138808?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="tel:+17167172193">
-    <img src="https://img.shields.io/badge/US_Phone-%17167172193-0A66C2?style=for-the-badge&logo=phone&logoColor=white"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://medium.com/@phanivarun">
-    <img src="https://img.shields.io/badge/Blog-Read_My_Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blog-Read_My_Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
