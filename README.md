@@ -7,6 +7,32 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 
+
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:phanivarunm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-phanivarunm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="tel:+919666858369">
+    <img src="https://img.shields.io/badge/India_Phone-%2B919666858369-138808?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="tel:+17167172193">
+    <img src="https://img.shields.io/badge/US_Phone-%17167172193-0A66C2?style=for-the-badge&logo=phone&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@phanivarun">
+    <img src="https://img.shields.io/badge/Blog-Read_My_Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</p>
+
+
 ## 📝 Latest Blog Posts
 - [Business Logic Vulnerabilities Are Engineering Bugs](https://medium.com/@phanivarun/business-logic-vulnerabilities-are-engineering-bugs-3ca53704bd5b)
 - [System Design Is a Security Problem Every SDE Owns](https://medium.com/@phanivarun/system-design-is-a-security-problem-every-sde-owns-94fcd4293e92)
@@ -32,14 +58,7 @@
 
 
 
-## 🔥 GitHub Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Mvarun14&theme=dark&hide_border=true)
-
-## 📊 GitHub Profile Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mvarun14&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
-
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvarun14&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+![Profile Views](https://komarev.com/ghpvc/?username=Mvarun14&style=for-the-badge)
 
 
 
