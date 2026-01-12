@@ -32,6 +32,10 @@ I am a secure software developer with a strong interest in building reliable, se
 
 I enjoy working with technologies like Python, Java, JavaScript, cloud platforms (AWS, GCP, Azure), and containerized environments using Docker and Kubernetes. I’m particularly interested in system design, secure software development, and applying security principles early in the development lifecycle.
 
+## 🧠 How I Think
+
+I focus on building systems that fail safely, scale predictably, and remain observable under real-world conditions — not just during happy-path execution.
+
 
 ## 📝 Latest Blog Posts
 - [Business Logic Vulnerabilities Are Engineering Bugs](https://medium.com/@phanivarun/business-logic-vulnerabilities-are-engineering-bugs-3ca53704bd5b)
