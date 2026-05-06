@@ -46,7 +46,7 @@ I focus on building systems that fail safely, scale predictably, and remain obse
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Full Stack Developer](https://img.shields.io/badge/Full_Stack-Developer-blueviolet?style=for-the-badge&logo=stackoverflow&logoColor=white)
+
 
 
 
