@@ -35,6 +35,6 @@ I close that gap. I build across the full system with a security-first mindset a
 
 <div align="center">
 
-> *Code that ships, systems that hold.*
+ *Code that ships, systems that hold.*
 
 </div>
