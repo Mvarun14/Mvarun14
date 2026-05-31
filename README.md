@@ -11,9 +11,6 @@ I close that gap. I build across the full system with a security-first mindset a
 ---
 
 ## 💼 Currently
-
-- 🎯 **Actively seeking roles** in Software Development, Full Stack Engineering, Application Security, and AI Security
-- 📍 Based in **New York** — open to relocate anywhere
 - 🔭 Building agentic AI systems and the guardrails that hold them up under real-world pressure
 - 💬 Happy to chat about AI security, secure SDLC, or anything at the intersection of building and breaking
 - 📫 Reach me at **phanivarunm@gmail.com** or [LinkedIn](https://www.linkedin.com/in/mpvarun)
